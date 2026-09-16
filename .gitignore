@@ -1,0 +1,48 @@
+# Dependencies and build output
+node_modules/
+.pnpm-store/
+dist/
+release/
+out/
+build/
+coverage/
+.cache/
+win-unpacked/
+
+# User projects and generated media
+*.velvetwire
+*.mp4
+*.wav
+*.mp3
+*.mov
+*.webm
+*.gif
+
+# Local state and secrets
+*.log
+*.tmp
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+*.crt
+
+# Release payloads belong on GitHub Releases, not in Git history
+*.exe
+*.msi
+*.asar
+*.zip
+*.7z
+
+# Internal-only material
+internal/
+qa/
+preservation/
+release-staging/
+personal-pc*/
+visual-qa*/
+.DS_Store
+Thumbs.db
