@@ -7,8 +7,8 @@ Release title: `Velvet Wire Studio 0.1.0`
 ## Exact v0.1.0 assets
 
 1. `Velvet-Wire-Studio-Setup-0.1.0.exe`
-   - Bytes: 245,277,068
-   - SHA-256: `12C7823E6BDD92B44E813D0F03DD3CE122CD82C280DC8E8F75B6D98DE21E445C`
+   - Bytes: 245,278,167
+   - SHA-256: `059F9792302195069BCADFEAE2BF531717A1106B7113E746C5EB5A9B5567AB42`
    - Authenticode: unsigned; signing deferred by owner
 2. `SHA256SUMS.txt`
 3. `Velvet-Wire-Studio-0.1.0-Renderer-Corresponding-Source.zip`

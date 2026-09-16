@@ -20,7 +20,7 @@
 
    Expected SHA-256:
 
-   `12C7823E6BDD92B44E813D0F03DD3CE122CD82C280DC8E8F75B6D98DE21E445C`
+   `059F9792302195069BCADFEAE2BF531717A1106B7113E746C5EB5A9B5567AB42`
 
 3. Run the installer and follow the ordinary Windows prompts.
 4. Launch Velvet Wire Studio from the Start menu or installed shortcut.
