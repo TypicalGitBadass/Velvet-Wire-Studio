@@ -20,9 +20,13 @@ Created by **TypicalNoctis**.
 
 ## Download and install
 
-Download `Velvet-Wire-Studio-Setup-0.1.0.exe` from the official GitHub Release. Verify it against [`SHA256SUMS.txt`](SHA256SUMS.txt), then follow the [installation guide](docs/INSTALLATION.md).
+Download `Velvet-Wire-Studio-Setup-0.1.1.exe` from the official GitHub Release. Verify it against [`SHA256SUMS.txt`](SHA256SUMS.txt), then follow the [installation guide](docs/INSTALLATION.md).
 
-Velvet Wire Studio 0.1.0 is currently unsigned. Windows may display Unknown Publisher or Microsoft Defender SmartScreen. Continue only when the file came from the official release and its checksum matches. Do not disable Windows security features.
+Velvet Wire Studio 0.1.1 is currently unsigned. Windows may display Unknown Publisher or Microsoft Defender SmartScreen. Continue only when the file came from the official release and its checksum matches. Do not disable Windows security features.
+
+### Windows process behavior
+
+Velvet Wire Studio uses Electron and Chromium-based rendering for MP4 export. Windows may temporarily show several application and rendering processes while an export is active. Render-specific processes close after rendering, cancellation, or application shutdown.
 
 ## Projects
 
